@@ -1,0 +1,81 @@
+{
+  "lists": [
+    {
+      "name": "Films",
+      "colorId": 7,
+      "id": 1
+    },
+    {
+      "name": "Sport",
+      "colorId": 3,
+      "id": 2
+    },
+    {
+      "name": "Books",
+      "colorId": 8,
+      "id": 3
+    }
+  ],
+  "tasks": [
+    {
+      "listId": 1,
+      "text": "To watch  a film",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "listId": 2,
+      "text": "Football",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "listId": 2,
+      "text": "Tenis",
+      "completed": false,
+      "id": 3
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#C9D1D3",
+      "name": "grey"
+    },
+    {
+      "id": 2,
+      "hex": "#42B883",
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "hex": "#64C4ED",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "#FFBBCC",
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "hex": "#B6E6BD",
+      "name": "lime"
+    },
+    {
+      "id": 6,
+      "hex": "#C355F5",
+      "name": "purple"
+    },
+    {
+      "id": 7,
+      "hex": "#110133",
+      "name": "black"
+    },
+    {
+      "id": 8,
+      "hex": "#FF6464",
+      "name": "red"
+    }
+  ]
+}
